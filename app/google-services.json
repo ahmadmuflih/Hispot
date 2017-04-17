@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "114461114408",
+    "project_id": "firebase-hispot"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114461114408:android:47dd5dea73550e2b",
+        "android_client_info": {
+          "package_name": "id.edutech.baso.mapsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114461114408-d0esad5vdnb6r526hs632tq678i4clnj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.edutech.baso.mapsproject",
+            "certificate_hash": "1BEB9A118B811A751668159498DA1A3222D4A953"
+          }
+        },
+        {
+          "client_id": "114461114408-uf0ha4o6cl2l1na3udvgv86sodb2ga9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB60KQPo_LfUpx4oK6If6jvVM1lLVosJwY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

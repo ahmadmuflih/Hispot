@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+        <Button
+            android:id="@+id/report"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:text="Report"
+            android:textAllCaps="false"
+            android:drawableLeft="@drawable/ic_error_black_24dp"
+            android:padding="10dp"
+            android:drawablePadding="15dp"
+            android:gravity="left|center_vertical"
+            />
+
+        <Button
+            android:id="@+id/share"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:drawableLeft="@drawable/ic_share_black_24dp"
+            android:text="Share"
+            android:textAllCaps="false"
+            android:gravity="left|center_vertical"
+            android:drawablePadding="15dp"
+            android:padding="10dp"
+            android:visibility="gone"/>
+
+        <Button
+            android:id="@+id/save"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:drawableLeft="@drawable/ic_file_download_black_24dp"
+            android:text="Save"
+            android:textAllCaps="false"
+            android:gravity="left|center_vertical"
+            android:drawablePadding="15dp"
+            android:padding="10dp"/>
+</LinearLayout>

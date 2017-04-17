@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Hi-Spot!</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="btn_logout_from_google">Logout from Google</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+    <string name="title_activity_trending">Trending</string>
+    <string name="search_hint">Search</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_expand">Expand</string>
+    <string name="action_close">Close</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
